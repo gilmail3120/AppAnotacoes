@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppAnotacoes</string>
+    <color name="vermelho_claro">#FFCDD2</color>
+    <color name="rosa_claro">#F8BBD0</color>
+    <color name="roxo_claro">#E1BEE7</color>
+    <color name="azul_claro">#BBDEFB</color>
+    <color name="verde_claro">#C8E6C9</color>
+    <color name="amarelo_claro">#FFF9C4</color>
+    <color name="cinza_claro">#F5F5F5</color>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
